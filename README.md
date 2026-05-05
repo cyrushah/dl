@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [uBlock0_1.70.0.firefox.signed](https://github.com/cyrushah/dl/tree/main/downloads/uBlock0_1.70.0.firefox.signed)
+
+---
