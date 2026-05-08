@@ -4,6 +4,7 @@
 - [librewolf-150.0.1-1-windows-x86_64-portable](./librewolf-150.0.1-1-windows-x86_64-portable)
 - [sponsorblock-6.1.5](./sponsorblock-6.1.5)
 - [uBlock0_1.70.0.firefox.signed](./uBlock0_1.70.0.firefox.signed)
+- [zeroomega-3.4.5](./zeroomega-3.4.5)
 
 ---
 

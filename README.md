@@ -83,6 +83,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [944e17ddc73d132d0541a5f826824ba5](https://github.com/cyrushah/dl/tree/main/downloads/944e17ddc73d132d0541a5f826824ba5)
@@ -92,5 +94,7 @@ a
 3. [sponsorblock-6.1.5](https://github.com/cyrushah/dl/tree/main/downloads/sponsorblock-6.1.5)
 
 4. [uBlock0_1.70.0.firefox.signed](https://github.com/cyrushah/dl/tree/main/downloads/uBlock0_1.70.0.firefox.signed)
+
+5. [zeroomega-3.4.5](https://github.com/cyrushah/dl/tree/main/downloads/zeroomega-3.4.5)
 
 ---
